@@ -1,16 +1,16 @@
 ### Hi there, I'm Milan 👋
 
-I'm working as a Consultant, Software Architect and Developer, mainly on Cloud (Azure) and Microsoft .NET tech stack. My current position is Lead Software Architect [Zühlke Group](www.zuehlke.com).
+I'm working as a Consultant, Software Architect and Developer, mainly on Cloud (Azure) and Microsoft .NET tech stack. My current position is Lead Software Architect @ [Zühlke Group](www.zuehlke.com).
 
-You can check my Blog here on different aspects of Software Engineering here: [Link](https://milan.milanovic.org/#posts).
+You can check my [Blog](https://milan.milanovic.org/#posts) here on different aspects of Software Engineering.
 
 💬 Ask me about: Software Architecture, Product development, Cloud, Azure, C#, ASP.NET, Mobile, Android, Xamarin, SQL Server, DevOps, Agile, Engineering management. 
 
 📫 How to reach me:
 
 * Email: `milan` at `milanovic.org`
-* LinkedIn: [@https://www.linkedin.com/in/milanmilanovic/)
-* Twitter: [@milan_milanovic]https://twitter.com/milan_milanovic)
+* LinkedIn: (milanmilanovic)[@https://www.linkedin.com/in/milanmilanovic/)
+* Twitter: [@milan_milanovic](https://twitter.com/milan_milanovic)
 
 <!--
 **milanm/milanm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
