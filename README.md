@@ -1,6 +1,6 @@
 ### Hi there, I'm Milan 👋
 
-I'm working as a Consultant, Software Architect and Developer, mainly on Cloud (Azure) and Microsoft .NET tech stack. My current position is Lead Software Architect @ [Zühlke Group](https://www.zuehlke.com).
+I'm working as a Consultant, Engineering Manager, Software Architect and Developer, mainly on Cloud (Azure) and Microsoft .NET tech stack. My current position is Principal Consultant @ [Zühlke Group](https://www.zuehlke.com).
 
 You can check my [Blog](https://milan.milanovic.org/#posts) here on different aspects of Software Engineering.
 
