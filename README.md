@@ -1,10 +1,10 @@
 ### Hi there, I'm Milan 👋
 
-I'm working as a Consultant, Engineering Manager, Software Architect and Developer, mainly on Cloud (Azure) and Microsoft .NET tech stack. My current position is Principal Consultant @ [Zühlke Group](https://www.zuehlke.com).
+I'm working as a Consultant, Engineering Manager, Software Architect and Developer, mainly on Cloud (Azure) and Microsoft .NET tech stack. My current position is CTO @ [3MD](https://www.3mdinc.com).
 
 You can check my [Blog](https://milan.milanovic.org/#posts) here on different aspects of Software Engineering.
 
-💬 Ask me about: Software Architecture, Product development, Cloud, Azure, C#, ASP.NET, Mobile, Android, Xamarin, SQL Server, DevOps, Agile, Engineering management. 
+💬 Ask me about: Software Architecture, Cloud computing (Azure), C#, ASP.NET, Mobile, Databases, DevOps, Agile, People, Organizations. 
 
 📫 How to reach me:
 
