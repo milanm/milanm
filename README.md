@@ -9,7 +9,7 @@ You can check my [Blog](https://milan.milanovic.org/#posts) here on different as
 📫 How to reach me:
 
 * Email: `milan` at `milanovic.org`
-* LinkedIn: [milanmilanovic](https://www.linkedin.com/in/milanmilanovic/) - 66k+ followers
+* LinkedIn: [milanmilanovic](https://www.linkedin.com/in/milanmilanovic/)
 * Twitter: [@milan_milanovic](https://twitter.com/milan_milanovic)
 
 <!--
