@@ -2,7 +2,7 @@
 
 I'm working as a Consultant, Engineering Manager, Software Architect and Developer, mainly on Cloud (Azure) and Microsoft .NET tech stack. My current position is CTO @ [3MD](https://www.3mdinc.com).
 
-You can check my [Blog](https://milan.milanovic.org/#posts) here on different aspects of Software Engineering.
+You can check my [Blog](https://milan.milanovic.org/#posts) here on different aspects of Software Engineering. I also write on [LinkedIn](https://www.linkedin.com/in/milanmilanovic/) and Twitter(https://twitter.com/milan_milanovic).
 
 💬 Ask me about: Software Architecture, Cloud computing (Azure), C#, ASP.NET, Mobile, Databases, DevOps, Agile, People, Organizations. 
 
