@@ -8,7 +8,7 @@ Join [my newsletter](https://newsletter.techworld-with-milan.com/).
 
 ![TechWorld With Milan](TechWorld-logo---transparent.png)
 
-💬 Ask me about: Software Architecture, Cloud computing (Azure), C#, ASP.NET, Mobile, Databases, DevOps, Agile, People, Organizations. 
+💬 Ask me about: Software Architecture, Cloud computing (Azure), C#, ASP.NET, Mobile, Databases, DevOps, Agile, People, Coaching, Organizations, Agility. 
 
 📫 How to reach me:
 
