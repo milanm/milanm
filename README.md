@@ -12,7 +12,7 @@ Join [my newsletter](https://newsletter.techworld-with-milan.com/) 📝
 
 📫 How to reach me:
 
-* Email: `milan` at `milanovic.org`
+* Email: [contact](https://milan.milanovic.org/#contact)
 * LinkedIn: [milanmilanovic](https://www.linkedin.com/in/milanmilanovic/)
 * Twitter: [@milan_milanovic](https://twitter.com/milan_milanovic)
 
