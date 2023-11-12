@@ -3,7 +3,7 @@
 
 🎯 I'm working as a **CTO** @ [3MD](https://www.3mdinc.com). I have over 20 years of professional experience in different domains, including the finance industry, banking, energy sector, transportation, insurance, and telco. Also, I'm **Microsoft MVP for Developer Technologies**.
 
-🚀 My mission is to provide **engineering excellence** focused on proper architecture the best agile practices, **passionately build high-performing teams** and organizations to deliver innovative, 𝗵𝗶𝗴𝗵-𝗾𝘂𝗮𝗹𝗶𝘁𝘆 𝗽𝗿𝗼𝗱𝘂𝗰𝘁𝘀, working closely with customers and developing software products on different platforms.
+🚀 My mission is to provide **engineering excellence** focused on proper architecture and the best agile practices, **passionately build high-performing teams** and organizations to deliver innovative, high-quality products, working closely with customers and developing software products on different platforms.
 
 🎓 As a **researcher**, I published 20+ papers and book chapters in international conferences and journals (having more than 440+ citations and an h-index of 11 on Google Scholar), obtaining a Ph.D. in Computer Sciences. 
 
