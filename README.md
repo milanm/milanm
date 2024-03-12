@@ -7,7 +7,7 @@
 
 🎓 As a **researcher**, I published 20+ papers and book chapters in international conferences and journals (with more than 440+ citations and an [h-index of 11 on Google Scholar](https://scholar.google.com/citations?user=9DlmJqcAAAAJ)). I obtained a **Ph.D. in Computer Sciences**. 
 
-✍🏻 Additionally, I am an author who helps more than **200,000 engineers, managers, and architects** to build great careers, products, and teams through various platforms and channels. You can check **[my newsletter](https://newsletter.techworld-with-milan.com/)**, where I write on different aspects of Software Engineering. 
+✍🏻 Additionally, I am an author who helps more than **300,000 engineers, managers, and architects** to build great careers, products, and teams through various platforms and channels. You can check **[my newsletter](https://newsletter.techworld-with-milan.com/)**, where I write on different aspects of Software Engineering. 
 
 ![TechWorld With Milan](TechWorld-logo---transparent.png)
 
