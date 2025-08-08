@@ -1,7 +1,7 @@
 ### Hi there, I'm Milan 👋
 
 
-🎯 I'm working as a startup **CTO**. I have over 20 years of professional experience in different domains, including the finance industry, banking, energy sector, transportation, insurance, and telco in different roles, from software engineer to architect and consultant. I'm also a **Microsoft MVP for Developer Technologies**.
+🎯 I'm working as a startup **CTO**. I have over 20 years of professional experience in various industries, including finance, banking, energy, transportation, insurance, and telco, in different roles, from software engineer to architect and consultant. I'm also a **[Microsoft MVP for Developer Technologies](https://mvp.microsoft.com/en-US/MVP/profile/af364500-1e9e-ed11-83ff-000d3a5600fa)**.
 
 🚀 My mission is to provide **engineering excellence** focused on proper architecture and the best agile practices, passionately build high-performing teams and organizations to deliver innovative, high-quality products, work closely with customers, and develop software products on different platforms.
 
