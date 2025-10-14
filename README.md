@@ -9,7 +9,7 @@
 
 ✍🏻 Additionally, I am an author who helps more than **400,000 engineers, managers, and architects** to build great careers, products, and teams through various platforms and channels.
 
-### 👉 Subscribe to my [Newsletter](https://newsletter.techworld-with-milan.com/), where I write on Software Engineering and Leadership for more than 46K people. 
+### 👉 Subscribe to my [Newsletter](https://newsletter.techworld-with-milan.com/), where I write on Software Engineering and Leadership for more than 48K people. 
 
 ![TechWorld With Milan](TechWorld-logo---transparent.png)
 
