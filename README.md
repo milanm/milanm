@@ -1,15 +1,15 @@
 ### Hi there, I'm Milan 👋
 
 
-🎯 I'm working as a startup **CTO**. I have over 20 years of professional experience in various industries, including finance, banking, energy, transportation, insurance, and telco, in different roles, from software engineer to architect and consultant. I'm also a **[Microsoft MVP for Developer Technologies](https://mvp.microsoft.com/en-US/MVP/profile/af364500-1e9e-ed11-83ff-000d3a5600fa)**.
+🎯 I'm working as a startup **CTO**. I have over 20 years of professional experience across finance, banking, energy, transportation, insurance, and telco, in roles ranging from software engineer to architect and consultant. I'm also a **[Microsoft MVP for Developer Technologies](https://mvp.microsoft.com/en-US/MVP/profile/af364500-1e9e-ed11-83ff-000d3a5600fa)**.
 
-🚀 My mission is to provide **engineering excellence** focused on proper architecture and the best agile practices, passionately build high-performing teams and organizations to deliver innovative, high-quality products, work closely with customers, and develop software products on different platforms.
+🚀 My mission is to provide **engineering excellence** focused on sound architecture and best agile practices, passionately build high-performing teams and organizations to deliver innovative, high-quality products, work closely with customers, and develop software products across different platforms.
 
 🎓 As a **researcher**, I published 20+ papers and book chapters in international conferences and journals (with more than 440+ citations and an [h-index of 11 on Google Scholar](https://scholar.google.com/citations?user=9DlmJqcAAAAJ)). I obtained a **Ph.D. in Computer Sciences**. 
 
 ✍🏻 Additionally, I am an author who helps more than **400,000 engineers, managers, and architects** to build great careers, products, and teams through various platforms and channels.
 
-### 👉 Subscribe to my [Newsletter](https://newsletter.techworld-with-milan.com/), where I write on Software Engineering and Leadership for more than 48K people. 
+### 👉 Subscribe to my [Newsletter](https://newsletter.techworld-with-milan.com/), where I write on Software Engineering and Leadership for more than 50K people. 
 
 ![TechWorld With Milan](TechWorld-logo---transparent.png)
 
