@@ -1,24 +1,31 @@
-### Hi there, I'm Milan 👋
+### Hi, I'm Milan 👋
 
+I'm a CTO and the author of **[Laws of Software Engineering](https://lawsofsoftwareengineering.com)**. Over 20+ years, I've built software and engineering teams across finance, banking, energy, transportation, insurance, and telco, in roles from engineer to architect to CTO. I'm a **[Microsoft MVP for Developer Technologies](https://mvp.microsoft.com/en-US/MVP/profile/af364500-1e9e-ed11-83ff-000d3a5600fa)** and hold a Ph.D. in Computer Science, with 20+ published papers and [440+ citations](https://scholar.google.com/citations?user=9DlmJqcAAAAJ).
 
-🎯 I'm working as a startup **CTO**. I have over 20 years of professional experience across finance, banking, energy, transportation, insurance, and telco, in roles ranging from software engineer to architect and consultant. I'm also a **[Microsoft MVP for Developer Technologies](https://mvp.microsoft.com/en-US/MVP/profile/af364500-1e9e-ed11-83ff-000d3a5600fa)**.
+Today I help 400K+ engineers and leaders grow through better software, teams, and careers.
 
-🚀 My mission is to provide **engineering excellence** focused on sound architecture and best agile practices, passionately build high-performing teams and organizations to deliver innovative, high-quality products, work closely with customers, and develop software products across different platforms.
+### 📖 My book: Laws of Software Engineering
 
-🎓 As a **researcher**, I published 20+ papers and book chapters in international conferences and journals (with more than 440+ citations and an [h-index of 11 on Google Scholar](https://scholar.google.com/citations?user=9DlmJqcAAAAJ)). I obtained a **Ph.D. in Computer Sciences**. 
+A 300-page guide to 63+ laws and principles that shape software systems, teams, and decisions, from Conway's Law and Brooks's Law to CAP and Goodhart's Law. Forewords by Dr. Rebecca Parsons (CTO Emerita, Thoughtworks) and Addy Osmani (Google).
 
-✍🏻 Additionally, I am an author who helps more than **400,000 engineers, managers, and architects** to build great careers, products, and teams through various platforms and channels.
+**[Get the book »](https://lawsofsoftwareengineering.com)**
 
-### 👉 Subscribe to my [Newsletter](https://newsletter.techworld-with-milan.com/), where I write on Software Engineering and Leadership for more than 50K people. 
+### ✉️ Newsletter
 
-![TechWorld With Milan](TechWorld-logo---transparent.png)
+I write weekly on software engineering, architecture, and leadership.
 
-💬 Ask me about Software Architecture, Cloud computing (Azure), C#/.NET, Databases, DevOps, Agile methods, People, Coaching, Organizations, Productivity. 
+[![Tech World With Milan](TechWorld-logo---transparent.png)](https://newsletter.techworld-with-milan.com/)
 
-📫 How to reach me:
+**[Subscribe to Tech World With Milan »](https://newsletter.techworld-with-milan.com/)**
 
-* E-mail: [contact](https://milan.milanovic.org/#contact)
-* LinkedIn: [milanmilanovic](https://www.linkedin.com/in/milanmilanovic/)
-* Twitter: [@milan_milanovic](https://twitter.com/milan_milanovic)
-* Substack: [@techworldwithmilan](https://substack.com/@techworldwithmilan)
-* BSky: [milanmilanovic](https://bsky.app/profile/milanmilanovic.bsky.social)
+### 💬 Ask me about
+
+Software architecture, Azure, C#/.NET, databases, DevOps, engineering management, coaching, and careers.
+
+### 📫 Where to find me
+
+- [LinkedIn](https://www.linkedin.com/in/milanmilanovic/)
+- [X](https://twitter.com/milan_milanovic)
+- [Substack](https://substack.com/@techworldwithmilan)
+- [Bluesky](https://bsky.app/profile/milanmilanovic.bsky.social)
+- [Website](https://milan.milanovic.org)
