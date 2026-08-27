@@ -6,7 +6,7 @@ Today I help 400K+ engineers and leaders grow through better software, teams, an
 
 ### 📖 My book: Laws of Software Engineering
 
-<a href="https://lawsofsoftwareengineering.com"><img src="https://lawsofsoftwareengineering.com/cover.jpg" alt="Laws of Software Engineering book cover" width="140" align="right"></a>
+<a href="https://lawsofsoftwareengineering.com"><img src="https://lawsofsoftwareengineering.com/images/front-cover-hero.webp" alt="Laws of Software Engineering book cover" width="140" align="right"></a>
 
 A 300-page guide to 63+ laws and principles that shape software systems, teams, and decisions, from Conway's Law and Brooks's Law to CAP and Goodhart's Law. Forewords by Dr. Rebecca Parsons (CTO Emerita, Thoughtworks) and others.
 
