@@ -1,22 +1,32 @@
 ### Hi, I'm Milan 👋
 
-I'm a CTO and the author of **[Laws of Software Engineering](https://lawsofsoftwareengineering.com)**. Over 20+ years, I've built software and engineering teams across finance, banking, energy, transportation, insurance, and telco, in roles from engineer to architect to CTO. I'm a **[Microsoft MVP for Developer Technologies](https://mvp.microsoft.com/en-US/MVP/profile/af364500-1e9e-ed11-83ff-000d3a5600fa)** and hold a Ph.D. in Computer Science, with 20+ published papers and [450+ citations](https://scholar.google.com/citations?user=9DlmJqcAAAAJ).
+I'm a CTO and the author of **[Laws of Software Engineering](https://lawsofsoftwareengineering.com)**. Over 20+ years, I've built software and engineering teams across finance, banking, energy, and more.
 
 Today I help 400K+ engineers and leaders grow through better software, teams, and careers.
 
 ### 📖 My book: Laws of Software Engineering
 
-A 300-page guide to 63+ laws and principles that shape software systems, teams, and decisions, from Conway's Law and Brooks's Law to CAP and Goodhart's Law. Forewords by Dr. Rebecca Parsons (CTO Emerita, Thoughtworks) and Addy Osmani (Google).
+<a href="https://lawsofsoftwareengineering.com"><img src="https://lawsofsoftwareengineering.com/cover.png" alt="Laws of Software Engineering book cover" width="140" align="right"></a>
+
+A 300-page guide to 63+ laws and principles that shape software systems, teams, and decisions, from Conway's Law and Brooks's Law to CAP and Goodhart's Law. Forewords by Dr. Rebecca Parsons (CTO Emerita, Thoughtworks) and others.
 
 **[Get the book »](https://lawsofsoftwareengineering.com)**
 
 ### ✉️ Newsletter
 
-I write weekly on software engineering, architecture, and leadership.
+I write weekly on software engineering, architecture, and leadership. Join **50K+ engineers** reading every week.
 
-[![Tech World With Milan](TechWorld-logo---transparent.png)](https://newsletter.techworld-with-milan.com/)
+<a href="https://newsletter.techworld-with-milan.com/">
+  <img src="TechWorld-logo---transparent.png" alt="Tech World With Milan" width="400">
+</a>
 
 **[Subscribe to Tech World With Milan »](https://newsletter.techworld-with-milan.com/)**
+
+### 🚀 Popular projects
+
+- [DevOps-Roadmap](https://github.com/milanm/DevOps-Roadmap) ⭐ – A step-by-step guide to becoming a DevOps engineer, with learning resources
+- [azure-cheat-sheet](https://github.com/milanm/azure-cheat-sheet) ⭐ – A comprehensive Azure services cheat sheet
+- [aws-multi-account-viewer](https://github.com/milanm/aws-multi-account-viewer) – Serverless AWS multi-account resource browser
 
 ### 💬 Ask me about
 
