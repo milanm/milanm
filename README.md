@@ -22,7 +22,7 @@ I write weekly on software engineering, architecture, and leadership. Join **50K
 
 ### Popular projects
 
-- [DevOps Roadmap](https://github.com/milanm/DevOps-Roadmap) – A step-by-step path to becoming a DevOps engineer, with learning resources (20K+ ⭐)
+- [DevOps Roadmap](https://github.com/milanm/DevOps-Roadmap) – A step-by-step path to becoming a DevOps engineer, with learning resources (20K+ stars)
 - [.NET Developer Roadmap](https://github.com/milanm/DotNet-Developer-Roadmap) – 260+ tools, libraries, books, and concepts for .NET engineers, ordered by seniority
 - [Azure Developer Cheat Sheet](https://azurecheatsheet.com/) – Every Azure service on one page, 170+ of them in 19 categories ([repo](https://github.com/milanm/azure-cheat-sheet))
 - [Cloud Product Mapping](https://github.com/milanm/Cloud-Product-Mapping) – AWS, Azure, Google Cloud, and Oracle Cloud services side by side
