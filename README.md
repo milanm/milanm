@@ -1,10 +1,10 @@
-### Hi, I'm Milan 👋
+### Hi, I'm Milan
 
 I'm CTO at [Trucking Hub](https://www.truckinghub.com/), a Microsoft MVP, and the author of **[Laws of Software Engineering](https://lawsofsoftwareengineering.com/book)**. Over 20 years, I've built software and engineering teams across finance, banking, energy, and more.
 
 Today I help 400K+ engineers and leaders grow through better software, teams, and careers.
 
-### 📖 My book: Laws of Software Engineering
+### My book: Laws of Software Engineering
 
 <a href="https://lawsofsoftwareengineering.com/book"><img src="https://lawsofsoftwareengineering.com/images/front-cover-hero.webp" alt="Laws of Software Engineering book cover" width="140" align="right"></a>
 
@@ -12,17 +12,15 @@ A 300-page guide to 63 laws and principles that shape software systems, teams, a
 
 **[Get the book »](https://lawsofsoftwareengineering.com/book)**
 
-### ✉️ Newsletter
+<br clear="right">
+
+### Newsletter
 
 I write weekly on software engineering, architecture, and leadership. Join **50K+ engineers** reading every week.
 
-<a href="https://newsletter.techworld-with-milan.com/">
-  <img src="TechWorld-logo---transparent.png" alt="Tech World With Milan" width="250">
-</a>
-
 **[Subscribe to Tech World With Milan »](https://newsletter.techworld-with-milan.com/)**
 
-### 🚀 Popular projects
+### Popular projects
 
 - [DevOps Roadmap](https://github.com/milanm/DevOps-Roadmap) – A step-by-step path to becoming a DevOps engineer, with learning resources (20K+ ⭐)
 - [.NET Developer Roadmap](https://github.com/milanm/DotNet-Developer-Roadmap) – 260+ tools, libraries, books, and concepts for .NET engineers, ordered by seniority
@@ -34,15 +32,10 @@ I write weekly on software engineering, architecture, and leadership. Join **50K
 
 More on **[milan.milanovic.org/made](https://milan.milanovic.org/made/)**.
 
-### 💬 Ask me about
+### Ask me about
 
 Software architecture, Azure, C#/.NET, databases, DevOps, engineering management, [coaching](https://milan.milanovic.org/coaching/), and careers.
 
-### 📫 Where to find me
+### Where to find me
 
-- [LinkedIn](https://www.linkedin.com/in/milanmilanovic/)
-- [X](https://x.com/milan_milanovic)
-- [Substack](https://substack.com/@techworldwithmilan)
-- [Bluesky](https://bsky.app/profile/milanmilanovic.bsky.social)
-- [Website](https://milan.milanovic.org)
-- [Email](mailto:milan@milanovic.org)
+[Website](https://milan.milanovic.org) · [LinkedIn](https://www.linkedin.com/in/milanmilanovic/) · [X](https://x.com/milan_milanovic) · [Substack](https://substack.com/@techworldwithmilan) · [Bluesky](https://bsky.app/profile/milanmilanovic.bsky.social) · [Email](mailto:milan@milanovic.org)
